@@ -1,2 +1,3 @@
 # snake_first_v
-First version snake made during freshman year
+Revised version snake game with add-on features made on June/2017
+Club illustration snake
